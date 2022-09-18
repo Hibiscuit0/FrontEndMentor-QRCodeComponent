@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/Hibiscuit0/FrontEndMentor-QRCodeComponent
-- Live Site URL: https://front-end-mentor-qr-code-component.vercel.app/
+- Live Site URL: [https://front-end-mentor-qr-code-component.vercel.app/](https://front-end-mentor-qr-code-component-virid.vercel.app/)
 
 ## My process
 - define the HTML structure & adding classes names
